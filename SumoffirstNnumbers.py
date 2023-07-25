@@ -6,7 +6,6 @@ for i in range(num+1):
   sum+=i
 print(sum)
 
-
 Method 2: Formula
 Num= int(input("Enter number"))
 print(int( Num * ( Num + 1 ) ) / 2)
